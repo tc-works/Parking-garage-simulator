@@ -35,5 +35,5 @@ Which classes are needed ?
 
 How does my result it look like ?
 
-![image](https://user-images.githubusercontent.com/109070237/178240549-b6c6d3df-184c-4fce-b3e9-6b833fe4f989.png)
+![image](https://user-images.githubusercontent.com/109070237/178240742-fa4a3f37-3b58-4724-97d4-a59c88ef7d50.png)
 
